@@ -1,0 +1,4 @@
+requests
+openpyxl
+pandas
+Office365-REST-Python-Client
